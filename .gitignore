@@ -1,0 +1,11 @@
+# Project place file
+/To your journey.rbxlx
+/Packages
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Misc
+.vscode/
+/Misc
